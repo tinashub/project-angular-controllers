@@ -1,6 +1,6 @@
 # Quiz - Angular Controllers
 
-Starter code for [Udacity](https://www.udacity.com)'s [Front End Frameworks course](https://www.udacity.com/course/front-end-frameworks--ud894).
+The app shows how Angular controllers work. Data is set in controller brick.js and called in bricks.html to show on screen. index.html is amended to include controller.
 
 ## Required Software
 
